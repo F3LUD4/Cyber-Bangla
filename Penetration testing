@@ -1,0 +1,22 @@
+Penetration Testing Responsibilities:
+Vulnerability Assessment: Identify security vulnerabilities in networks, applications, and systems.
+Exploit Development: Simulate real-world attacks to exploit identified vulnerabilities.
+Report Writing: Prepare detailed technical reports and executive summaries outlining findings and mitigation strategies.
+Tool Usage: Proficiency in tools like Burp Suite, Metasploit, Nmap, and Wireshark for testing.
+Web Application Security: Test for OWASP Top 10 vulnerabilities, including SQL injection, XSS, CSRF, and more.
+Network Security Testing: Perform internal and external network scans to identify potential risks.
+Red Team/Blue Team Exercises: Collaborate with teams for real-world simulation and defense strategies.
+
+Support Team Responsibilities:
+Incident Response: Assist in handling security incidents, investigating root causes, and mitigating threats.
+Customer Support: Address queries from clients regarding cybersecurity issues or concerns.
+Training and Awareness: Provide training sessions to clients and team members on cybersecurity best practices.
+Documentation: Maintain detailed records of incidents, test results, and resolved issues.
+System Monitoring: Use tools to monitor for anomalies or suspicious activities.
+Patch Management: Ensure timely updates to systems and software to address vulnerabilities.
+
+Value-Added Contributions:
+Research: Stay updated with the latest cybersecurity threats, trends, and tools.
+Collaboration: Work closely with developers, IT, and other stakeholders to enhance overall security posture.
+Custom Tool Development: Develop or script automation tools to streamline repetitive security tasks.
+Threat Intelligence Sharing: Contribute to knowledge-sharing platforms or communities like Cyber Bangla to keep peers informed.
